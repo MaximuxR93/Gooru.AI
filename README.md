@@ -1,12 +1,45 @@
-# React + Vite
+# 🌐 GooruAI — Your AI-Powered Assistant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+GooruAI is a sleek and intelligent AI assistant built using **React + Vite**, inspired by Gemini and ChatGPT. Ask it anything — from anime recommendations to coding help — and get real-time, smart responses.
 
-Currently, two official plugins are available:
+![GooruAI Screenshot](./assets/demo_screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔎 Smart search & suggestions
+- 💬 Chat interface with conversation history
+- 🎨 Clean dark-mode UI
+- 🎮 Personalized prompts (anime, games, tech help)
+- 🎙️ Microphone input for voice commands
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React
+- ⚡ Vite
+- 🧠 Google Gemini API
+- 🎨 TailwindCSS (or custom CSS)
+- 🧪 ESLint + Babel/SWC
+
+---
+
+## 🖼 Demo Preview
+
+> Here's how it looks in action:
+
+![GooruAI Preview](./assets/demo_screenshot.png)
+
+> _"Hello, Rayan. How can I assist you?"_ — GooruAI, personalized AI on the web.
+
+---
+
+## 📦 Setup Instructions
+
+```bash
+git clone https://github.com/MaximuxR93/Gooru.AI.git
+cd Gooru.AI
+npm install
+npm run dev
