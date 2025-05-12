@@ -30,7 +30,8 @@ GooruAI is a sleek and intelligent AI assistant built using **React + Vite**, in
 
 > Here's how it looks in action:
 
-![GooruAI Preview](./assets/demo_screenshot.png)
+![GooruAI Preview](Gooru.AI/src
+/assets/demo_screenshot.png)
 
 > _"Hello, Rayan. How can I assist you?"_ — GooruAI, personalized AI on the web.
 
